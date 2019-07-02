@@ -6,7 +6,7 @@ Prefix: PI
 Authors: Nadezhda A. Ezhova, Leonid B. Sokolinsky
 Creation Date: 09.04.2017
 ==============================================================================*/
-#pragma once
+#include <math.h>
 #include "Problem-Include.h"
 #include "Problem-Types.h"			// Problem Types 
 #include "Problem-Data.h"			// Problem Data 
